@@ -1,0 +1,70 @@
+#main{
+	padding-top: 52px;
+	border: black 1px;
+	min-height: 100%;
+}
+
+
+#logo{
+	font-size: 20px;
+	color:white;
+}
+
+#navleft{
+	padding-right: 30px;
+}
+
+footer{
+	background: black;
+}
+
+#heading{
+	font-size: 20px;
+	font-style: italic;
+	padding-top: 5px;
+}
+.btn-link:hover, .btn-link:focus{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+
+.pull-right{
+	padding-top: 0px;
+}
+
+
+#header-logo{
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+.upload-drop-zone {
+  height: 200px;
+  border-width: 2px;
+  margin-bottom: 20px;
+}
+#dropZone{
+	width: 100%;
+}
+
+/* skin.css Style*/
+.upload-drop-zone {
+  color: #ccc;
+  border-style: dashed;
+  border-color: #ccc;
+  line-height: 200px;
+  text-align: center
+}
+.upload-drop-zone.drop {
+  color: #222;
+  border-color: #222;
+}
+/*footer{
+   position:absolute; 
+   bottom:0;  
+   height:150px;
+   width:100%;
+   clear: both;
+}*/
